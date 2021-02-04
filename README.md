@@ -100,3 +100,6 @@ setuptools.setup(
         'Topic :: Software Development :: Quality Assurance',
     ],
 )
+# instructions
+
+[Click here to see the wiki](https://github.com/pi-node/instructions/wiki)
